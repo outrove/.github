@@ -1,5 +1,4 @@
 # Outrove
-
 AI-native Salesforce for recruiting and marketing. We build ultra‑realistic AI agents that automate sourcing, screening, interviewing, and GTM workflows at 10x speed and lower cost. YC S25 — San Francisco.
 
 ## What we do
@@ -19,12 +18,10 @@ AI-native Salesforce for recruiting and marketing. We build ultra‑realistic AI
 - Operations: repetitive communication and data entry across ATS/CRM and internal tools
 
 ## Getting started
-- Request access: hello@outrove.ai
 - Direct contact: elshireef@outrove.ai
 - Pilot programs: YC S25 partners and early adopters welcome
 
 ## Contact
-- Email: hello@outrove.ai
 - Email: elshireef@outrove.ai
 - Website: outrove.ai
 - LinkedIn: linkedin.com/company/outrove
